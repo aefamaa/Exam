@@ -1,0 +1,56 @@
+.m1{
+   color: rgb(0, 89, 255); 
+   text-align: center;
+   border: 4px solid red;
+   border-radius: 20px;
+   background-color: rgb(156, 255, 245);
+}
+.m2{
+    font-size: 20px;
+    color: green;
+}
+
+.m3{
+    font-size: 20px;
+}
+.m4{
+    font-size: 20px;
+}
+.m5{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+.m6{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+.m8{
+    width: 1300px;
+    height: 30px;
+}
+.i8{
+    color: green;
+}
+.x7{
+    color: aliceblue;
+    background-color: dodgerblue;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+}
+.x5m{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.ten{
+    color: bisque;
+    text-align: center;
+    width: 500px;
+}
+.nine{
+    color: aliceblue;
+    text-align: center;
+}
